@@ -1,0 +1,30 @@
+Data Protection & Privacy Policy
+
+This page governs privacy policy for Atlassian marketplace add-on "LaTeX JSMath Wrapper Plugin" developed by Andrey Kostin.
+
+What information do the add-ons need?
+
+Plugin is a wrapper for JS library wich is not use any remote server. So all data is rendered on client site.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other
+company for any reason whatsoever, without your consent.
+
+
+How is information protected?
+
+No data is sent outside browser, no data is stored locally.
+
+
+Does it use cookies?
+
+No, it does not use cookies.
+
+
+Changes to Privacy Policy
+
+Any changes in this privacy policy will be posted in public and updated here.
+
+
+Contact:
+
+Andrey Kostin
+andrey.kostin@gmail.com
